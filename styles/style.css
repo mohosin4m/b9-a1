@@ -1,0 +1,89 @@
+.heading{
+    color: white;
+    font-family: 'Roboto', sans-serif; ;
+    background-image: url( ../images/Banner\ Image.png);
+    background-repeat: no-repeat;
+    /* background: linear-gradient() */
+    width: 1320px;
+    height: 600px;
+    font-size: 20px;
+    font-style: normal;
+    font-family: 900;
+    line-height: 20px;
+}
+.OFF{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 0px;
+    margin-top: 40px;
+}
+.text{
+    text-align: center;
+    padding: 140px 50px;
+    font-family: merriweather;
+}
+.red{
+    color: red;
+}
+.pht{
+    text-align: center;
+}.back{
+    background-image: url( ../images/Vectorrr.png);
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 600px;
+    margin-top: 50px;
+    
+}
+.wlc{
+    /* text-align: center; */
+    color: white;
+    /* line-height: 88px; */
+    /* font-weight: 900px; */
+    /* font-size: 64px; */
+    /* letter-spacing: 7.04px; */
+    padding-left: 126px;
+    padding-right: 552px;
+    padding-top: 126px;
+    padding-bottom: 298px;
+}
+.time{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 70px;
+    margin-top: 60px;
+}
+.b-color{
+    background-color: lightgoldenrodyellow;
+}
+.t-color{
+    color: #FF0000;
+}
+.btn-praimary{
+    border-radius: 5px;
+    color: white;
+    border: 0;
+    background-color: #FF0000;
+    font-weight: 700;
+    font-size: 13px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.flx{
+    display: flex;
+}
+.girl{
+    padding-right: 268.14px;
+    padding-left: 268.14px;
+}
+.flx{
+    background-color: azure;
+}
+.mrg{
+    padding-top: 50px;
+}
+.font{
+    font-size: 60px;
+}
