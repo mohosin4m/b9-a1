@@ -122,16 +122,36 @@
 }
 .maile-background{
     margin-top: 50px;
-    background-color: aquamarine;
+    background-color: aqua;
 }
-.bck-text{
-    color: white;
-    padding-left: 140px;
-    padding-top: 120px;
-    padding-bottom: 400px;
-}
-
 .blck-brgnd{
     background-color: black;
     margin-top: 50px;
+}
+.bck-text{
+    color: white;
+    padding-top: 50px;
+    padding-right: 700px;
+    padding-bottom: 100px;
+    padding-left: 50px;
+}
+.all{
+    color: white;
+    padding-bottom: 5px;
+    padding-top:100px ;
+    padding-left: 50px;
+}
+.uns{
+    color: white;
+    padding-left: 1200px;
+    padding-right: 50px;
+
+
+    
+}
+.web{
+    color: white;
+    padding-left: 900px;
+    /* padding-bottom: 500px; */
+    /* padding-top: 50px; */
 }
