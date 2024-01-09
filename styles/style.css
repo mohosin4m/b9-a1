@@ -87,3 +87,51 @@
 .font{
     font-size: 60px;
 }
+.siz{
+    font-size: 40px;
+    font-family: Merriweather;
+}
+.whom{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.discount{
+    padding-left: 205px;
+    padding-bottom: 50px;
+}
+.disc-img{
+    background-image: url( ../images/Rectangle\ 1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.back-colr{
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: azure;
+}
+.product{
+    display: flex;
+}
+.maile-box{
+    text-align: center;
+    padding-left: 363px;
+    padding-right: 363px;
+    padding-bottom: 23px;
+    padding-top: 23px;
+}
+.maile-background{
+    margin-top: 50px;
+    background-color: aquamarine;
+}
+.bck-text{
+    color: white;
+    padding-left: 140px;
+    padding-top: 120px;
+    padding-bottom: 400px;
+}
+
+.blck-brgnd{
+    background-color: black;
+    margin-top: 50px;
+}
